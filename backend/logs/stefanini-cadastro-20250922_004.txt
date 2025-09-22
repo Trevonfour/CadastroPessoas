@@ -1,0 +1,14 @@
+2025-09-22 09:57:57.818 -03:00 [INF] Banco de dados inicializado com sucesso
+2025-09-22 09:57:57.860 -03:00 [INF] Aplicação iniciada com sucesso
+2025-09-22 10:03:06.967 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 1.4057 ms
+2025-09-22 10:03:06.967 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 2.3997 ms
+2025-09-22 10:03:07.081 -03:00 [INF] HTTP GET /api/pessoas responded 401 in 90.0370 ms
+2025-09-22 10:03:07.092 -03:00 [INF] HTTP GET /api/pessoas responded 401 in 3.6040 ms
+2025-09-22 10:11:03.953 -03:00 [INF] HTTP OPTIONS /api/v1/auth/recuperar-senha responded 204 in 0.0971 ms
+2025-09-22 10:11:04.145 -03:00 [WRN] Tentativa de recuperação de senha para email inexistente: silvalexandre123@gmail.com
+2025-09-22 10:11:04.153 -03:00 [INF] HTTP POST /api/v1/auth/recuperar-senha responded 200 in 168.6968 ms
+[2025-09-22 10:17:24.584 -03:00 INF] Banco de dados inicializado com sucesso {}
+[2025-09-22 10:17:24.619 -03:00 INF] Aplicação iniciada com sucesso {}
+[2025-09-22 10:17:39.333 -03:00 INF] HTTP OPTIONS /api/v1/auth/recuperar-senha responded 204 in 1.2498 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPR9JP13KV:00000001","ConnectionId":"0HNFPR9JP13KV"}
+[2025-09-22 10:17:39.533 -03:00 WRN] Tentativa de recuperação de senha para email inexistente: silvalexandre123@gmail.com {"SourceContext":"StefaniniCadastroPessoas.Services.AuthService","ActionId":"1eccb35a-12b0-41db-89ad-5956a854023e","ActionName":"StefaniniCadastroPessoas.Controllers.AuthController.RecuperarSenha (StefaniniCadastroPessoas)","RequestId":"0HNFPR9JP13KV:00000003","RequestPath":"/api/v1/auth/recuperar-senha","ConnectionId":"0HNFPR9JP13KV"}
+[2025-09-22 10:17:39.544 -03:00 INF] HTTP POST /api/v1/auth/recuperar-senha responded 200 in 176.8577 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPR9JP13KV:00000003","ConnectionId":"0HNFPR9JP13KV"}

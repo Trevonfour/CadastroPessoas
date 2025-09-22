@@ -1,2 +1,11 @@
 2025-09-22 09:34:44.977 -03:00 [INF] Banco de dados inicializado com sucesso
 2025-09-22 09:34:45.015 -03:00 [INF] Aplicação iniciada com sucesso
+[2025-09-22 09:57:57.818 -03:00 INF] Banco de dados inicializado com sucesso {}
+[2025-09-22 09:57:57.860 -03:00 INF] Aplicação iniciada com sucesso {}
+[2025-09-22 10:03:06.967 -03:00 INF] HTTP OPTIONS /api/pessoas responded 204 in 1.4057 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPQULBR3G7:00000001","ConnectionId":"0HNFPQULBR3G7"}
+[2025-09-22 10:03:06.967 -03:00 INF] HTTP OPTIONS /api/pessoas responded 204 in 2.3997 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPQULBR3G7:00000003","ConnectionId":"0HNFPQULBR3G7"}
+[2025-09-22 10:03:07.081 -03:00 INF] HTTP GET /api/pessoas responded 401 in 90.0370 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPQULBR3G7:00000005","ConnectionId":"0HNFPQULBR3G7"}
+[2025-09-22 10:03:07.092 -03:00 INF] HTTP GET /api/pessoas responded 401 in 3.6040 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPQULBR3G7:00000007","ConnectionId":"0HNFPQULBR3G7"}
+[2025-09-22 10:11:03.953 -03:00 INF] HTTP OPTIONS /api/v1/auth/recuperar-senha responded 204 in 0.0971 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPQULBR3G8:00000001","ConnectionId":"0HNFPQULBR3G8"}
+[2025-09-22 10:11:04.145 -03:00 WRN] Tentativa de recuperação de senha para email inexistente: silvalexandre123@gmail.com {"SourceContext":"StefaniniCadastroPessoas.Services.AuthService","ActionId":"d7812cf7-d887-4a1a-946a-4a7d6fcdfdd9","ActionName":"StefaniniCadastroPessoas.Controllers.AuthController.RecuperarSenha (StefaniniCadastroPessoas)","RequestId":"0HNFPQULBR3G8:00000003","RequestPath":"/api/v1/auth/recuperar-senha","ConnectionId":"0HNFPQULBR3G8"}
+[2025-09-22 10:11:04.153 -03:00 INF] HTTP POST /api/v1/auth/recuperar-senha responded 200 in 168.6968 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPQULBR3G8:00000003","ConnectionId":"0HNFPQULBR3G8"}

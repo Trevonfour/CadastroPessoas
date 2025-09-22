@@ -1,0 +1,74 @@
+2025-09-22 10:18:52.178 -03:00 [INF] Banco de dados inicializado com sucesso
+2025-09-22 10:18:52.218 -03:00 [INF] Aplicação iniciada com sucesso
+2025-09-22 10:19:01.421 -03:00 [INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 1.0161 ms
+2025-09-22 10:19:01.809 -03:00 [INF] Login realizado com sucesso para usuário: admin
+2025-09-22 10:19:01.826 -03:00 [INF] HTTP POST /api/v1/auth/login responded 200 in 378.6367 ms
+2025-09-22 10:19:01.863 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.4031 ms
+2025-09-22 10:19:01.863 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0411 ms
+2025-09-22 10:19:01.998 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 116.1564 ms
+2025-09-22 10:19:02.013 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 12.8730 ms
+2025-09-22 10:19:58.845 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.1059 ms
+2025-09-22 10:19:58.886 -03:00 [INF] Pessoa criada com sucesso: Lúcia Sebastiana Lúcia Santos - CPF: 06811627590
+2025-09-22 10:19:58.905 -03:00 [INF] HTTP POST /api/pessoas responded 201 in 52.6991 ms
+2025-09-22 10:20:00.944 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.1076 ms
+2025-09-22 10:20:00.944 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0633 ms
+2025-09-22 10:20:00.973 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 10.1723 ms
+2025-09-22 10:20:00.985 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 10.2932 ms
+2025-09-22 10:20:09.440 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0515 ms
+2025-09-22 10:20:09.440 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0395 ms
+2025-09-22 10:20:09.459 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 6.1417 ms
+2025-09-22 10:20:09.468 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 6.2155 ms
+2025-09-22 10:20:15.989 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0889 ms
+2025-09-22 10:20:15.989 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0391 ms
+2025-09-22 10:20:16.011 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 6.5977 ms
+2025-09-22 10:20:16.020 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 7.4102 ms
+2025-09-22 10:20:28.789 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.2533 ms
+2025-09-22 10:20:28.827 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 25.3712 ms
+2025-09-22 10:20:32.497 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0702 ms
+2025-09-22 10:20:32.497 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0359 ms
+2025-09-22 10:20:32.516 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 5.3526 ms
+2025-09-22 10:20:32.524 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 6.4034 ms
+2025-09-22 10:20:35.524 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0252 ms
+2025-09-22 10:20:35.524 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0681 ms
+2025-09-22 10:20:35.541 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 5.2784 ms
+2025-09-22 10:20:35.552 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 9.2095 ms
+2025-09-22 10:20:38.151 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0413 ms
+2025-09-22 10:20:38.170 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 7.2904 ms
+2025-09-22 10:20:39.797 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.1054 ms
+2025-09-22 10:20:39.797 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0947 ms
+2025-09-22 10:20:39.836 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 13.7403 ms
+2025-09-22 10:20:39.849 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 10.4937 ms
+2025-09-22 10:21:49.317 -03:00 [INF] HTTP OPTIONS /api/v1/auth/registro responded 204 in 0.1332 ms
+2025-09-22 10:21:49.517 -03:00 [INF] Usuário registrado com sucesso: alex
+2025-09-22 10:21:49.530 -03:00 [INF] HTTP POST /api/v1/auth/registro responded 201 in 192.2039 ms
+2025-09-22 10:21:51.588 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.1013 ms
+2025-09-22 10:21:51.599 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0802 ms
+2025-09-22 10:21:51.623 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 9.8895 ms
+2025-09-22 10:21:51.634 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 8.9018 ms
+2025-09-22 10:21:59.424 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0404 ms
+2025-09-22 10:21:59.424 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0167 ms
+2025-09-22 10:21:59.450 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 9.8330 ms
+2025-09-22 10:21:59.459 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 6.6921 ms
+2025-09-22 10:22:02.392 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0366 ms
+2025-09-22 10:22:02.392 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0467 ms
+2025-09-22 10:22:02.421 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 11.7332 ms
+2025-09-22 10:22:02.436 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 14.4314 ms
+2025-09-22 10:22:04.660 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 5.4583 ms
+2025-09-22 10:22:04.668 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 6.7870 ms
+2025-09-22 10:22:15.353 -03:00 [INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 0.0364 ms
+2025-09-22 10:22:15.495 -03:00 [INF] Login realizado com sucesso para usuário: alex
+2025-09-22 10:22:15.500 -03:00 [INF] HTTP POST /api/v1/auth/login responded 200 in 138.6553 ms
+2025-09-22 10:22:15.521 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0356 ms
+2025-09-22 10:22:15.521 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0195 ms
+2025-09-22 10:22:15.536 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 5.0646 ms
+2025-09-22 10:22:15.541 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 4.6057 ms
+2025-09-22 10:22:18.963 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0673 ms
+2025-09-22 10:22:18.963 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0590 ms
+2025-09-22 10:22:18.987 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 8.5731 ms
+2025-09-22 10:22:18.997 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 7.5796 ms
+2025-09-22 10:22:24.984 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0301 ms
+2025-09-22 10:22:24.999 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 7.4388 ms
+2025-09-22 10:22:27.717 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0854 ms
+2025-09-22 10:22:27.718 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0865 ms
+2025-09-22 10:22:27.743 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 4.4888 ms
+2025-09-22 10:22:27.751 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 7.0262 ms

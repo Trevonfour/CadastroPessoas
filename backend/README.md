@@ -83,7 +83,7 @@ Um editor de código como Visual Studio 2022 ou VS Code
 Instalação e Execução
 Clone o repositório:
 
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone <https://github.com/Trevonfour/CadastroPessoas.git>
 cd <PASTA_DO_PROJETO>/backend
 
 Restaure as dependências do .NET:
