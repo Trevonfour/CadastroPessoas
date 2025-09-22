@@ -108,9 +108,3 @@ src/
 ├── App.jsx           # Componente principal com as rotas
 ├── main.jsx          # Ponto de entrada da aplicação
 └── ...
-```
-
-## 📞 Suporte
-
-Para dúvidas ou suporte, entre em contato com a equipe de desenvolvimento.
-'''
