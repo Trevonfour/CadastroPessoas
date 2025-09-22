@@ -48,7 +48,7 @@ class PessoasService {
   // Obtém uma pessoa por ID
   async obterPessoa(id) {
     try {
-      const response = await fetch(`${this.baseURL}/v1/pessoas/${id}`, {
+      const response = await fetch(`${this.baseURL}/pessoas/v1/${id}`, {
         headers: this.getAuthHeaders(),
       });
 
