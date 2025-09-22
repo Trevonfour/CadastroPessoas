@@ -1,0 +1,9 @@
+2025-09-21 20:49:25.016 -03:00 [INF] Banco de dados inicializado com sucesso
+2025-09-21 20:49:25.046 -03:00 [INF] Aplicação iniciada com sucesso
+[2025-09-21 20:56:05.456 -03:00 INF] Banco de dados inicializado com sucesso {}
+[2025-09-21 20:56:05.500 -03:00 INF] Aplicação iniciada com sucesso {}
+[2025-09-21 21:03:14.902 -03:00 INF] HTTP GET /api/v1/Auth/login responded 405 in 88.1441 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPD9MT7O5E:00000015","ConnectionId":"0HNFPD9MT7O5E"}
+[2025-09-21 21:04:09.445 -03:00 INF] Login realizado com sucesso para usuário: admin {"SourceContext":"StefaniniCadastroPessoas.Services.AuthService","ActionId":"be961888-6fad-4e34-bcbc-134d0cb00bb8","ActionName":"StefaniniCadastroPessoas.Controllers.AuthController.Login (StefaniniCadastroPessoas)","RequestId":"0HNFPD9MT7O6Q:00000001","RequestPath":"/api/v1/Auth/login","ConnectionId":"0HNFPD9MT7O6Q"}
+[2025-09-21 21:04:09.467 -03:00 INF] HTTP POST /api/v1/Auth/login responded 200 in 407.3444 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPD9MT7O6Q:00000001","ConnectionId":"0HNFPD9MT7O6Q"}
+[2025-09-21 21:05:32.512 -03:00 INF] HTTP OPTIONS /api/v1/Auth/login responded 204 in 4.0601 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPD9MT7O71:00000001","ConnectionId":"0HNFPD9MT7O71"}
+[2025-09-21 21:05:33.838 -03:00 INF] HTTP OPTIONS /api/v1/Auth/login responded 204 in 0.0836 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPD9MT7O71:00000003","ConnectionId":"0HNFPD9MT7O71"}

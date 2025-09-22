@@ -1,0 +1,11 @@
+2025-09-21 21:17:15.034 -03:00 [INF] Banco de dados inicializado com sucesso
+2025-09-21 21:17:15.073 -03:00 [INF] Aplicação iniciada com sucesso
+2025-09-21 21:17:33.030 -03:00 [INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 3.1013 ms
+2025-09-21 21:17:33.679 -03:00 [INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 0.4330 ms
+2025-09-21 21:17:34.043 -03:00 [INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 0.5224 ms
+2025-09-21 21:17:34.206 -03:00 [INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 0.5790 ms
+2025-09-21 21:17:34.354 -03:00 [INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 0.0452 ms
+[2025-09-21 21:20:30.777 -03:00 INF] Banco de dados inicializado com sucesso {}
+[2025-09-21 21:20:30.820 -03:00 INF] Aplicação iniciada com sucesso {}
+[2025-09-21 21:20:40.677 -03:00 INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 3.0667 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPDNBK38K8:00000001","ConnectionId":"0HNFPDNBK38K8"}
+[2025-09-21 21:20:41.496 -03:00 INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 0.4454 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPDNBK38K8:00000003","ConnectionId":"0HNFPDNBK38K8"}

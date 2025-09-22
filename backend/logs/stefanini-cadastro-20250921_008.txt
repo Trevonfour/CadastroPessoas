@@ -1,0 +1,14 @@
+2025-09-21 21:58:15.184 -03:00 [INF] Banco de dados inicializado com sucesso
+2025-09-21 21:58:15.232 -03:00 [INF] Aplicação iniciada com sucesso
+2025-09-21 21:59:31.193 -03:00 [INF] HTTP GET /api responded 404 in 222.5610 ms
+2025-09-21 22:00:01.828 -03:00 [INF] HTTP GET //api/info responded 404 in 2.1652 ms
+2025-09-21 22:00:09.605 -03:00 [INF] HTTP GET /api/info responded 200 in 9.7826 ms
+2025-09-21 22:00:09.702 -03:00 [INF] HTTP GET /favicon.ico responded 404 in 0.1278 ms
+2025-09-21 22:00:23.269 -03:00 [INF] HTTP GET /health responded 200 in 2.5957 ms
+2025-09-21 22:00:31.244 -03:00 [INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 3.0458 ms
+2025-09-21 22:00:32.030 -03:00 [INF] Login realizado com sucesso para usuário: admin
+2025-09-21 22:00:32.077 -03:00 [INF] HTTP POST /api/v1/auth/login responded 200 in 798.0203 ms
+2025-09-21 22:00:32.128 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.1188 ms
+2025-09-21 22:00:32.129 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0598 ms
+2025-09-21 22:00:32.353 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 211.8112 ms
+2025-09-21 22:00:32.386 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 28.8807 ms

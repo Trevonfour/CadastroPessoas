@@ -1,0 +1,12 @@
+2025-09-21 21:16:22.188 -03:00 [INF] Banco de dados inicializado com sucesso
+2025-09-21 21:16:22.238 -03:00 [INF] Aplicação iniciada com sucesso
+2025-09-21 21:16:35.781 -03:00 [INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 1.2137 ms
+2025-09-21 21:16:36.697 -03:00 [INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 0.3816 ms
+2025-09-21 21:16:36.872 -03:00 [INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 0.7355 ms
+[2025-09-21 21:17:15.034 -03:00 INF] Banco de dados inicializado com sucesso {}
+[2025-09-21 21:17:15.073 -03:00 INF] Aplicação iniciada com sucesso {}
+[2025-09-21 21:17:33.030 -03:00 INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 3.1013 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPDLH9GQ2B:00000001","ConnectionId":"0HNFPDLH9GQ2B"}
+[2025-09-21 21:17:33.679 -03:00 INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 0.4330 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPDLH9GQ2B:00000003","ConnectionId":"0HNFPDLH9GQ2B"}
+[2025-09-21 21:17:34.043 -03:00 INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 0.5224 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPDLH9GQ2B:00000005","ConnectionId":"0HNFPDLH9GQ2B"}
+[2025-09-21 21:17:34.206 -03:00 INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 0.5790 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPDLH9GQ2B:00000007","ConnectionId":"0HNFPDLH9GQ2B"}
+[2025-09-21 21:17:34.354 -03:00 INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 0.0452 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPDLH9GQ2B:00000009","ConnectionId":"0HNFPDLH9GQ2B"}

@@ -1,0 +1,4 @@
+2025-09-22 07:26:38.626 -03:00 [INF] Banco de dados inicializado com sucesso
+2025-09-22 07:26:38.661 -03:00 [INF] Aplicação iniciada com sucesso
+[2025-09-22 09:25:53.514 -03:00 INF] Banco de dados inicializado com sucesso {}
+[2025-09-22 09:25:53.549 -03:00 INF] Aplicação iniciada com sucesso {}

@@ -1,0 +1,25 @@
+# Arquivo para ignorar arquivos e pastas gerados automaticamente no Git
+
+## .NET Core
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+
+## Frontend (Node.js)
+node_modules/
+dist/
+.pnpm-store/
+.env.local
+.env.*.local
+
+## Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+
+## Arquivos de IDEs
+.vscode/
+.idea/
+
+
+---

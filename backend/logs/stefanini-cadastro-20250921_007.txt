@@ -1,0 +1,128 @@
+2025-09-21 21:21:24.746 -03:00 [INF] Banco de dados inicializado com sucesso
+2025-09-21 21:21:24.794 -03:00 [INF] Aplicação iniciada com sucesso
+2025-09-21 21:21:28.022 -03:00 [INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 1.6561 ms
+2025-09-21 21:21:28.483 -03:00 [INF] Login realizado com sucesso para usuário: admin
+2025-09-21 21:21:28.503 -03:00 [INF] HTTP POST /api/v1/auth/login responded 200 in 450.0662 ms
+2025-09-21 21:22:56.760 -03:00 [INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 0.8238 ms
+2025-09-21 21:22:56.946 -03:00 [INF] Login realizado com sucesso para usuário: admin
+2025-09-21 21:22:56.957 -03:00 [INF] HTTP POST /api/v1/auth/login responded 200 in 183.2352 ms
+2025-09-21 21:27:50.541 -03:00 [INF] HTTP OPTIONS /api/v1/pessoas responded 204 in 0.1665 ms
+2025-09-21 21:27:50.616 -03:00 [INF] HTTP POST /api/v1/pessoas responded 404 in 59.2715 ms
+2025-09-21 21:29:51.535 -03:00 [INF] HTTP OPTIONS /api//pessoas responded 204 in 0.0765 ms
+2025-09-21 21:29:51.551 -03:00 [INF] HTTP POST /api//pessoas responded 404 in 0.4625 ms
+2025-09-21 21:29:52.586 -03:00 [INF] HTTP POST /api//pessoas responded 404 in 0.8035 ms
+2025-09-21 21:29:53.514 -03:00 [INF] HTTP POST /api//pessoas responded 404 in 0.4096 ms
+2025-09-21 21:30:06.051 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0833 ms
+2025-09-21 21:30:06.098 -03:00 [INF] Pessoa criada com sucesso: Luana Josefa das Neves - CPF: 08693059564
+2025-09-21 21:30:06.137 -03:00 [INF] HTTP POST /api/pessoas responded 201 in 73.3051 ms
+2025-09-21 21:30:08.205 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0596 ms
+2025-09-21 21:30:08.205 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0625 ms
+2025-09-21 21:30:08.264 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 39.1654 ms
+2025-09-21 21:30:08.273 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 5.4500 ms
+2025-09-21 21:30:17.339 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.2534 ms
+2025-09-21 21:30:17.342 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0855 ms
+2025-09-21 21:30:17.362 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.8731 ms
+2025-09-21 21:30:17.366 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.7777 ms
+2025-09-21 21:30:33.130 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0672 ms
+2025-09-21 21:30:33.130 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0252 ms
+2025-09-21 21:30:33.151 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 3.3312 ms
+2025-09-21 21:30:33.159 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 2.3313 ms
+2025-09-21 21:31:01.167 -03:00 [INF] HTTP OPTIONS /api/pessoas/3 responded 204 in 0.9226 ms
+2025-09-21 21:31:01.213 -03:00 [INF] Pessoa removida com sucesso: Carlos Eduardo Ferreira - ID: 3
+2025-09-21 21:31:01.222 -03:00 [INF] HTTP DELETE /api/pessoas/3 responded 204 in 23.8097 ms
+2025-09-21 21:31:01.233 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0938 ms
+2025-09-21 21:31:01.247 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 2.4971 ms
+2025-09-21 21:33:58.006 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.2548 ms
+2025-09-21 21:33:58.023 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.1322 ms
+2025-09-21 21:36:47.979 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 1.1194 ms
+2025-09-21 21:36:47.982 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0695 ms
+2025-09-21 21:36:48.006 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 2.0223 ms
+2025-09-21 21:36:48.016 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 9.0446 ms
+2025-09-21 21:38:31.416 -03:00 [INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 0.1339 ms
+2025-09-21 21:38:31.566 -03:00 [INF] Login realizado com sucesso para usuário: admin
+2025-09-21 21:38:31.572 -03:00 [INF] HTTP POST /api/v1/auth/login responded 200 in 137.3234 ms
+2025-09-21 21:38:31.606 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.1592 ms
+2025-09-21 21:38:31.607 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0519 ms
+2025-09-21 21:38:31.622 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.1140 ms
+2025-09-21 21:38:31.624 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 0.9820 ms
+2025-09-21 21:39:26.580 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0642 ms
+2025-09-21 21:39:26.605 -03:00 [WRN] Tentativa de criar pessoa com CPF já existente: 08693059564
+2025-09-21 21:39:26.630 -03:00 [INF] HTTP POST /api/pessoas responded 400 in 25.9464 ms
+2025-09-21 21:39:52.722 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.1132 ms
+2025-09-21 21:39:52.758 -03:00 [INF] Pessoa criada com sucesso: Luana Josefa das Neves - CPF: 11507089210
+2025-09-21 21:39:52.769 -03:00 [INF] HTTP POST /api/pessoas responded 201 in 32.1122 ms
+2025-09-21 21:39:54.801 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.8209 ms
+2025-09-21 21:39:54.801 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0318 ms
+2025-09-21 21:39:54.823 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.2234 ms
+2025-09-21 21:39:54.825 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.0098 ms
+2025-09-21 21:40:04.534 -03:00 [INF] HTTP OPTIONS /api/pessoas/1 responded 204 in 0.2384 ms
+2025-09-21 21:40:04.548 -03:00 [INF] Pessoa removida com sucesso: João Silva Santos - ID: 1
+2025-09-21 21:40:04.558 -03:00 [INF] HTTP DELETE /api/pessoas/1 responded 204 in 11.8050 ms
+2025-09-21 21:40:04.569 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0810 ms
+2025-09-21 21:40:04.593 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.4310 ms
+2025-09-21 21:40:06.045 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.2139 ms
+2025-09-21 21:40:06.045 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0162 ms
+2025-09-21 21:40:06.060 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.2799 ms
+2025-09-21 21:40:06.063 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 0.9626 ms
+2025-09-21 21:40:08.419 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.5576 ms
+2025-09-21 21:40:08.424 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.5430 ms
+2025-09-21 21:40:15.334 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0392 ms
+2025-09-21 21:40:15.360 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 17.1339 ms
+2025-09-21 21:40:20.281 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0680 ms
+2025-09-21 21:40:20.314 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.2674 ms
+2025-09-21 21:40:20.502 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 2.1242 ms
+2025-09-21 21:40:20.850 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.9342 ms
+2025-09-21 21:40:24.532 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0414 ms
+2025-09-21 21:40:24.550 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 4.9521 ms
+2025-09-21 21:40:26.966 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.3104 ms
+2025-09-21 21:40:26.967 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.2339 ms
+2025-09-21 21:40:26.995 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.0218 ms
+2025-09-21 21:40:26.998 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 0.8481 ms
+2025-09-21 21:40:31.180 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0953 ms
+2025-09-21 21:40:31.181 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.1567 ms
+2025-09-21 21:40:31.198 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.2620 ms
+2025-09-21 21:40:31.196 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.8543 ms
+2025-09-21 21:40:33.663 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0277 ms
+2025-09-21 21:40:33.665 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0293 ms
+2025-09-21 21:40:33.687 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.3504 ms
+2025-09-21 21:40:33.690 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 0.6563 ms
+2025-09-21 21:40:36.001 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.2684 ms
+2025-09-21 21:40:36.005 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.2891 ms
+2025-09-21 21:40:37.458 -03:00 [INF] HTTP OPTIONS /api/v1/pessoas/4 responded 204 in 0.0395 ms
+2025-09-21 21:40:37.459 -03:00 [INF] HTTP OPTIONS /api/v1/pessoas/4 responded 204 in 0.0636 ms
+2025-09-21 21:40:37.472 -03:00 [INF] HTTP GET /api/v1/pessoas/4 responded 404 in 0.1453 ms
+2025-09-21 21:40:37.492 -03:00 [INF] HTTP GET /api/v1/pessoas/4 responded 404 in 0.2863 ms
+2025-09-21 21:40:54.567 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0622 ms
+2025-09-21 21:40:54.568 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0392 ms
+2025-09-21 21:40:54.591 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.0008 ms
+2025-09-21 21:40:54.594 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 0.7643 ms
+2025-09-21 21:40:56.709 -03:00 [INF] HTTP OPTIONS /api/v1/pessoas/4 responded 204 in 0.0369 ms
+2025-09-21 21:40:56.710 -03:00 [INF] HTTP OPTIONS /api/v1/pessoas/4 responded 204 in 0.0238 ms
+2025-09-21 21:40:56.725 -03:00 [INF] HTTP GET /api/v1/pessoas/4 responded 404 in 0.1544 ms
+2025-09-21 21:40:56.734 -03:00 [INF] HTTP GET /api/v1/pessoas/4 responded 404 in 0.1822 ms
+2025-09-21 21:41:03.001 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.2892 ms
+2025-09-21 21:41:03.003 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0509 ms
+2025-09-21 21:41:03.028 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.3691 ms
+2025-09-21 21:41:03.031 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.0505 ms
+2025-09-21 21:41:04.919 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0393 ms
+2025-09-21 21:41:04.920 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0277 ms
+2025-09-21 21:41:04.935 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 2.2505 ms
+2025-09-21 21:41:04.952 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.2860 ms
+2025-09-21 21:41:11.197 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0297 ms
+2025-09-21 21:41:11.197 -03:00 [INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0200 ms
+2025-09-21 21:41:11.214 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 0.9089 ms
+2025-09-21 21:41:11.217 -03:00 [INF] HTTP GET /api/pessoas responded 200 in 1.0601 ms
+[2025-09-21 21:58:15.184 -03:00 INF] Banco de dados inicializado com sucesso {}
+[2025-09-21 21:58:15.232 -03:00 INF] Aplicação iniciada com sucesso {}
+[2025-09-21 21:59:31.193 -03:00 INF] HTTP GET /api responded 404 in 222.5610 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPED4OIFS0:00000001","ConnectionId":"0HNFPED4OIFS0"}
+[2025-09-21 22:00:01.828 -03:00 INF] HTTP GET //api/info responded 404 in 2.1652 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPED4OIFS0:00000007","ConnectionId":"0HNFPED4OIFS0"}
+[2025-09-21 22:00:09.605 -03:00 INF] HTTP GET /api/info responded 200 in 9.7826 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPED4OIFS0:00000009","ConnectionId":"0HNFPED4OIFS0"}
+[2025-09-21 22:00:09.702 -03:00 INF] HTTP GET /favicon.ico responded 404 in 0.1278 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPED4OIFS0:0000000B","ConnectionId":"0HNFPED4OIFS0"}
+[2025-09-21 22:00:23.269 -03:00 INF] HTTP GET /health responded 200 in 2.5957 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPED4OIFS0:0000000D","ConnectionId":"0HNFPED4OIFS0"}
+[2025-09-21 22:00:31.244 -03:00 INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 3.0458 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPED4OIFS1:00000001","ConnectionId":"0HNFPED4OIFS1"}
+[2025-09-21 22:00:32.030 -03:00 INF] Login realizado com sucesso para usuário: admin {"SourceContext":"StefaniniCadastroPessoas.Services.AuthService","ActionId":"8e38dcaa-d6f3-4c6e-8079-3e5605960f70","ActionName":"StefaniniCadastroPessoas.Controllers.AuthController.Login (StefaniniCadastroPessoas)","RequestId":"0HNFPED4OIFS1:00000003","RequestPath":"/api/v1/auth/login","ConnectionId":"0HNFPED4OIFS1"}
+[2025-09-21 22:00:32.077 -03:00 INF] HTTP POST /api/v1/auth/login responded 200 in 798.0203 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPED4OIFS1:00000003","ConnectionId":"0HNFPED4OIFS1"}
+[2025-09-21 22:00:32.128 -03:00 INF] HTTP OPTIONS /api/pessoas responded 204 in 0.1188 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPED4OIFS1:00000005","ConnectionId":"0HNFPED4OIFS1"}
+[2025-09-21 22:00:32.129 -03:00 INF] HTTP OPTIONS /api/pessoas responded 204 in 0.0598 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPED4OIFS1:00000007","ConnectionId":"0HNFPED4OIFS1"}
+[2025-09-21 22:00:32.353 -03:00 INF] HTTP GET /api/pessoas responded 200 in 211.8112 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPED4OIFS1:00000009","ConnectionId":"0HNFPED4OIFS1"}
+[2025-09-21 22:00:32.386 -03:00 INF] HTTP GET /api/pessoas responded 200 in 28.8807 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNFPED4OIFS1:0000000B","ConnectionId":"0HNFPED4OIFS1"}
