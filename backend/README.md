@@ -268,6 +268,3 @@ dotnet test --collect:"XPlat Code Coverage"
 reportgenerator -reports:"StefaniniCadastroPessoas.Tests/TestResults/*/coverage.cobertura.xml" -targetdir:"coveragereport" -reporttypes:Html
 
 O relatório será gerado na pasta coveragereport.
-
-📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
