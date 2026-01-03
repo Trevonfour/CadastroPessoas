@@ -1,5 +1,5 @@
-Stefanini - Desafio Cadastro de Pessoas (Full Stack)
-Projeto Full Stack completo desenvolvido como solução para o desafio de Cadastro de Pessoas da Stefanini. A aplicação é composta por uma API RESTful em .NET 8 e uma interface moderna em React 19, seguindo as melhores práticas de desenvolvimento, testes e arquitetura de software.
+Cadastro de Pessoas (Full Stack)
+Projeto Full Stack completo desenvolvido como solução para o desafio de Cadastro de Pessoas. A aplicação é composta por uma API RESTful em .NET 8 e uma interface moderna em React 19, seguindo as melhores práticas de desenvolvimento, testes e arquitetura de software.
 
 ![Imagem da tela de dashboard da aplicação]
 
@@ -120,5 +120,6 @@ Gerar Relatório de Cobertura (Backend):
 # Na pasta /backend
 dotnet test --collect:"XPlat Code Coverage"
 reportgenerator -reports:"StefaniniCadastroPessoas.Tests/TestResults/*/coverage.cobertura.xml" -targetdir:"coveragereport"
+
 
 
